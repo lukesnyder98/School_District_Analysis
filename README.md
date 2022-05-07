@@ -1,6 +1,9 @@
 # School_District_Analysis
  
 ## Overview
+The purpose of this analysis is to determine the average math and reading scores, percentages of students passing math and reading individually, and the percentages of students passing both classes for all of the high schools in the district. We also look at how these scores and percentages are affected by school spending, school size, and whether the school is a charter or district school.
+
+Thomas High School's ninth graders appeared to have altered math and reading scores, and so they were replaced with NaN's in the student data. The results and summary below explain how this affected the district and school summaries.
 
 ## Results
 
